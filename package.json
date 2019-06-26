@@ -1,5 +1,5 @@
 {
-  "name": "@ntt2k/mui-datatables",
+  "name": "@ntt2k/accessible-datatables",
   "version": "2.5.1a",
   "description": "Accessible Datatables for React using Material-UI",
   "main": "dist/index.js",
