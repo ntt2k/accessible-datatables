@@ -4,6 +4,8 @@
 
 # Accessible Datatables for Material-UI
 
+[![npm version](./Npm-logo.svg)](https://www.npmjs.com/package/@ntt2k/accessible-datatables)    [![license](https://img.shields.io/github/license/nhn/tui.editor.svg)](https://github.com/ntt2k/accessible-datatables/blob/master/LICENSE)
+
 Forked from https://github.com/gregnb/mui-datatables with some accessible issues fixed.
 This package is serving as an upstream package, until the fixes are merged back into the original project.
 
