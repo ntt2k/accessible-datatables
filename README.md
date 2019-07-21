@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/19170080/34070522-e15d32e2-e235-11e7-8af5-fa704cdcad56.png" />
 </div>
 
-# Accessible Datatables for Material-UI
+## Accessible Datatables for Material-UI
 
 [![npm version](./Npm-logo.svg)](https://www.npmjs.com/package/@ntt2k/accessible-datatables)    [![license](https://img.shields.io/github/license/nhn/tui.editor.svg)](https://github.com/ntt2k/accessible-datatables/blob/master/LICENSE)
 
