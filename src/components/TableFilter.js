@@ -101,7 +101,7 @@ export const defaultFilterStyles = theme => ({
     width: '100%',
   },
   textFieldFormControl: {
-    flex: '1 1 calc(50% - 24px)',
+    flex: '1 1 auto',
   },
 });
 
@@ -309,6 +309,7 @@ class TableFilter extends React.Component {
               className={classes.resetLink}
               tabIndex={0}
               aria-label={textLabels.reset}
+              data-testid={'filterReset-button'}
               onClick={onFilterReset}>
               {textLabels.reset}
             </Button>

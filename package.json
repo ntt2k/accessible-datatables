@@ -1,6 +1,6 @@
 {
   "name": "@ntt2k/accessible-datatables",
-  "version": "2.6.4b",
+  "version": "2.7.0b",
   "description": "Accessible Datatables for React using Material-UI",
   "main": "dist/index.js",
   "files": [
